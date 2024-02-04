@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vethis Arun S</h1>
 <h3 align="center">A Student Pursuing Data Science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vethisarun&label=Profile%20views&color=0e75b6&style=flat" alt="vethisarun" /> </p>
 
 - 📫 How to reach me **vethisarun@gmail.com**
 
