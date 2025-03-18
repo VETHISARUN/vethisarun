@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vethis Arun S</h1>
-<h3 align="center">A Student Pursuing Data Science</h3>
+<h1 align="center">Hello 👋, I'm Vethis S</h1>
+<h3 align="center"> Student Pursuing Data Science</h3>
 
 
 - 📫 How to reach me **vethisarun@gmail.com**
