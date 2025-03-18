@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Vethis S</h1>
+<h1 align="center">Hello 👋, I'm Vethis </h1>
 <h3 align="center"> Student Pursuing Data Science</h3>
 
 
